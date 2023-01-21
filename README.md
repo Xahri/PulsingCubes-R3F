@@ -3,6 +3,7 @@ It's an interactive grid of cubes, you can create a pulsing effect by clicking t
 You can also customize it. <br>
 
 [Pulsing Cubes Project Preview](https://pulsing-cubes-r3f.vercel.app/) <br>
+[Pulsing Cubes Project Preview](https://pulsing-cubes.netlify.app/) <br>
 <br>
 
 
