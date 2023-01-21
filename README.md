@@ -1,3 +1,13 @@
+This is a project made using React and React Three Fiber (R3F), <br>
+It's an interactive grid of cubes, you can create a pulsing effect by clicking the cubes. <br> 
+You can also customize it. <br>
+
+[Pulsing Cubes Project Preview](https://pulsing-cubes-r3f.vercel.app/) <br>
+<br>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
